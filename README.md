@@ -8,8 +8,8 @@ Real-time Feedback: As users draft their practice essays, the chatbot will analy
 
 Scoring Estimation: To help users gauge their performance, the chatbot can estimate a probable IELTS writing score based on the criteria used by official IELTS examiners. This score estimation can serve as a valuable benchmark for users to track their progress.
 
-## Dataset Dreakdown
-To begin, our initial step involves the collection of a high-quality dataset, which will be instrumental in fine-tuning our Language Model (LLM) models. We have diligently gathered a comprehensive set of IELTS writing tasks along with their respective possible answers, corresponding feedback, and the associated band scores. This dataset has been meticulously sourced from various reputable online platforms
+## Dataset Dreakdown 
+
 
 ## Models Overview
 
